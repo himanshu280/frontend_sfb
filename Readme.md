@@ -1,1 +1,1 @@
-This is the shared frontend for the SFB control panel.
+This is the shared front end for the SFB control panel.
